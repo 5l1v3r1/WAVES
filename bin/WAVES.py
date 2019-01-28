@@ -324,7 +324,7 @@ if __name__ == "__main__":
         crawlerFile = None
         attackFile = None
 
-        print("WAVES-1.0.0 (http://www.github.com/in/cehkunal/WAVES)")
+        print("WAVES-1.0.0 (http://www.github.com/hax0rhere/WAVES)")
 
         # Fix bor bug #31
         if sys.getdefaultencoding() != "utf-8":
