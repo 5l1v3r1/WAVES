@@ -9,6 +9,6 @@ setup(
     url='http://github.com',
     license='',
     author='Babajee Gubbala, Aviral Agarwal, Nitin Sharma',
-    author_email='gzbjdq123@gmail.com',
-    description='Web Application Vulnerability Scanner'
+    author_email='babajigubbala@gmail.com',
+    description='Web Application Vulnerability Enumulator and Scanner'
 )
